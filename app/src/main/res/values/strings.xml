@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Braille Recognition</string>
+    <string name="mainphrase">Braille Recognition</string>
+    <string name="recognize">Tap to recognize</string>
+    <string name="uploadphoto">upload photo</string>
+    <string name="result">result:</string>
+    <string name="predictionText">The prediction is:</string>
+</resources>
